@@ -5,18 +5,21 @@ Based on a tutorial by @techwithlucy, I have added Amazon bestseller data to an 
 
 S3 Bucket Created, uploaded Amazon Bestseller Dataset and manifest.json
 
-<img width="1097" alt="image" src="https://github.com/AlainaJensen/Alaina-AWS-Projects/assets/157747964/322a7631-2055-4dc0-8b95-66d2a23bc58c">
+<img width="1297" alt="image" src="https://github.com/AlainaJensen/AWS-Projects/assets/157747964/19446cbf-9e0b-4716-b803-406c06471b12">
+
 
 
 ## Step 2
 
 Connect QuickSight to the Amazon Dataset using manifest.json
 
-<img width="1090" alt="image" src="https://github.com/AlainaJensen/Alaina-AWS-Projects/assets/157747964/7e98d862-bf12-4de2-aa6a-cec3b2dd8ba8">
+<img width="1297" alt="image" src="https://github.com/AlainaJensen/AWS-Projects/assets/157747964/76854cef-3459-438b-8871-c03e6aa632c7">
+
 
 
 ## Step 3
 
 Create visualisations in QuickSight
 
-<img width="1091" alt="image" src="https://github.com/AlainaJensen/Alaina-AWS-Projects/assets/157747964/eb88fa80-6f7b-4aa5-812a-37c98af6b25f">
+<img width="1298" alt="image" src="https://github.com/AlainaJensen/AWS-Projects/assets/157747964/0191916a-1619-4801-b28d-953afbd1db6b">
+
