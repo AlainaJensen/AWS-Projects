@@ -1,6 +1,6 @@
 # Project: Build Serverless Web Application
 
-##Summary
+## Summary
 
 Following a [tutorial provided by AWS](https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/) and a supplementary [video tutorial](https://youtu.be/zuKu0VFiwas?) by @tinytechnicaltutorials, I used 6 different AWS services to build a web application including Lambda, API Gateway, Amplify, DynamoDB, and Cognito. 
 
