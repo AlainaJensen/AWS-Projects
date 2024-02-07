@@ -1,4 +1,7 @@
 # Project: Build Serverless Web Application
+
+##Summary
+
 Following a [tutorial provided by AWS](https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/) and a supplementary [video tutorial](https://youtu.be/zuKu0VFiwas?) by @tinytechnicaltutorials, I used 6 different AWS services to build a web application including Lambda, API Gateway, Amplify, DynamoDB, and Cognito. 
 
 ### Set up the repository in CodeCommit:
@@ -52,3 +55,15 @@ Following a [tutorial provided by AWS](https://aws.amazon.com/getting-started/ha
 ### Second item recorded in DynamoDB:
 
 <img width="1191" alt="image" src="https://github.com/AlainaJensen/AWS-Projects/assets/157747964/d861e452-f99f-4f90-82f6-0aea03900076">
+
+## What I Learned
+
+This project was really useful in helping me to "connect the dots" between different AWS services and how to build something functional with them. 
+
+## Difficulties
+
+I ran into authentication errors while trying to use AWS CLI on my local machine for the early steps as suggested in the written tutorial. This was when I began following the video where CloudShell was suggested instead, so I switched to that.
+
+## Next Steps
+
+I would like to try again with CLI and troubleshoot the errors in order to learn more about the process. I would also want to try a different version with another kind of web application, and possibly integrate some non AWS tools like Terraform.
